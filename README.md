@@ -1,5 +1,5 @@
-iOSDevDiagMode
-==============
+iOSUIDiagnosisMode
+=================
 
 Helper classes for UI fixes
 
