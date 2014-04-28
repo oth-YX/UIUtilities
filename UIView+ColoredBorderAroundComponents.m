@@ -17,7 +17,9 @@
     // It's called even before the "main" function is called. Beware: there's no
     // autorelease pool at this point, so avoid Objective-C calls.
     
-    return;
+    //Uncomment return to disable the category
+    //return;
+    
     static dispatch_once_t onceToken;
     dispatch_once(&onceToken, ^{
         //1
