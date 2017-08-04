@@ -1,3 +1,5 @@
+### This is no longer maintained. Keeping it only for historical reasons :D
+
 ### UIUtilities for iOS
 
 Helper classes for UI fixes
